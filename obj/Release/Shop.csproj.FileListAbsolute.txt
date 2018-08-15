@@ -1,0 +1,7 @@
+C:\Users\rzayk\source\repos\Shop\Shop\bin\Release\Shop.exe.config
+C:\Users\rzayk\source\repos\Shop\Shop\bin\Release\Shop.exe
+C:\Users\rzayk\source\repos\Shop\Shop\bin\Release\Shop.pdb
+C:\Users\rzayk\source\repos\Shop\Shop\obj\Release\Shop.csproj.CoreCompileInputs.cache
+C:\Users\rzayk\source\repos\Shop\Shop\obj\Release\Shop.exe
+C:\Users\rzayk\source\repos\Shop\Shop\obj\Release\Shop.pdb
+C:\Users\rzayk\source\repos\Shop\Shop\obj\Release\Shop.csprojResolveAssemblyReference.cache
